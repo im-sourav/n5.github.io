@@ -12,7 +12,7 @@ function hello() {
 hello()
 
 
-const item = 100;
+const item = 40;
 function xyz() {
   const con = document.querySelector(".contanier");
   var i = 0;
